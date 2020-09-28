@@ -1,4 +1,4 @@
-# <div align="center">brianzech.github.io</div>
+# General references
 
 ## TheMovieDB Guidelines
 
