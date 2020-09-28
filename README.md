@@ -1,4 +1,3 @@
-# brianzech.github.io
 
 ## TheMovieDB Guidelines
 
