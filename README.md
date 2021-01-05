@@ -1,4 +1,4 @@
-# General references
+# General References
 
 ## TheMovieDB Guidelines
 
